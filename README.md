@@ -1,5 +1,5 @@
 # Loan_prediction
-Predicting if someone is eligible for a loan using kNN algorithm.
+Predicting if someone is eligible for a loan using kNN and Decision tree algorithms.
 # Librairies
 
 1- Numpy
